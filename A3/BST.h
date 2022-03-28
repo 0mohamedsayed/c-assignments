@@ -1,8 +1,8 @@
 /*
  * BST.h
  *
- *  Created on: Jun 1, 2021
- *      Author: student
+ *  
+ *      Author: mohamed sayed mohamed
  */
 #ifndef BST_H_
 #define BST_H_
